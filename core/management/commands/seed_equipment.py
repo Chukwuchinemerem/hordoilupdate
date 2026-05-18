@@ -32,7 +32,7 @@ EQUIPMENT_DATA = [
         "static_image": "equip02_tanker_truck.svg",
         "daily_rate": "1800.00",
         "capacity": "45,000 Litres",
-        "location": "Lagos, Nigeria",
+        "location": "Oslo, Norway",
         "status": "available",
         "featured": True,
         "description": (
