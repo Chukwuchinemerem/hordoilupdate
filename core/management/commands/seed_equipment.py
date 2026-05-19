@@ -6,7 +6,7 @@ EQUIPMENT_DATA = [
     {
         "name": "VLCC Crude Oil Tanker Ship",
         "category": "tanker",
-        "static_image": "equip01_oil_tanker_ship.svg",
+        "static_image": "VLCC_Crude_Oil_Tanker_Ship.webp",
         "daily_rate": "85000.00",
         "capacity": "300,000 DWT",
         "location": "Port of Rotterdam, Netherlands",
@@ -29,7 +29,7 @@ EQUIPMENT_DATA = [
     {
         "name": "Petroleum Tanker Truck — 45,000L",
         "category": "truck",
-        "static_image": "equip02_tanker_truck.svg",
+        "static_image": "Petroleum_Tanker_Truck.jpg",
         "daily_rate": "1800.00",
         "capacity": "45,000 Litres",
         "location": "Oslo, Norway",
@@ -51,7 +51,7 @@ EQUIPMENT_DATA = [
     {
         "name": "Semi-Submersible Offshore Drilling Rig",
         "category": "offshore",
-        "static_image": "equip03_offshore_rig.svg",
+        "static_image": "Semi-Submersible_Offshore_Drilling_Rig.jpg",
         "daily_rate": "420000.00",
         "capacity": "120 POB / 3,000m Water Depth",
         "location": "Gulf of Mexico, USA",
@@ -74,7 +74,7 @@ EQUIPMENT_DATA = [
     {
         "name": "Crude Oil Storage Tank Farm — 500,000 BBL",
         "category": "storage",
-        "static_image": "equip04_storage_tanks.svg",
+        "static_image": "Crude_Oil_Storage_Tank_Farm.jpg",
         "daily_rate": "12500.00",
         "capacity": "500,000 Barrels Total",
         "location": "Texas City, TX, USA",
@@ -98,7 +98,7 @@ EQUIPMENT_DATA = [
     {
         "name": "High-Pressure Crude Oil Pipeline — 80km Section",
         "category": "pipeline",
-        "static_image": "equip05_pipeline.svg",
+        "static_image": "High-Pressure_Crude_Oil_Pipeline.jpg",
         "daily_rate": "95000.00",
         "capacity": "500,000 BPD Throughput",
         "location": "North Sea, UK Sector",
@@ -122,7 +122,7 @@ EQUIPMENT_DATA = [
     {
         "name": "Land Drilling Rig — 2,000HP AC Drive",
         "category": "drilling",
-        "static_image": "equip06_drill_rig.svg",
+        "static_image": "Land_Drilling_Rig.jpg",
         "daily_rate": "55000.00",
         "capacity": "9,000m Depth Rated",
         "location": "Permian Basin, TX, USA",
@@ -145,7 +145,7 @@ EQUIPMENT_DATA = [
     {
         "name": "Beam Pump Jack — Automated Oil Well",
         "category": "industrial",
-        "static_image": "equip07_pump_jack.svg",
+        "static_image": "Beam_Pump_Jack.jpg",
         "daily_rate": "850.00",
         "capacity": "20 BPD / 300m Depth",
         "location": "Alberta, Canada",
@@ -169,7 +169,7 @@ EQUIPMENT_DATA = [
     {
         "name": "Oil Refinery Processing Unit — CDU/VDU",
         "category": "industrial",
-        "static_image": "equip08_refinery.svg",
+        "static_image": "Oil_Refinery_Processing_Unit.jpg",
         "daily_rate": "380000.00",
         "capacity": "50,000 BPD",
         "location": "Jubail Industrial City, Saudi Arabia",
@@ -193,10 +193,10 @@ EQUIPMENT_DATA = [
     {
         "name": "Tanker Semi-Trailer — Tri-Axle Aluminium",
         "category": "trailer",
-        "static_image": "equip09_tanker_trailer.svg",
+        "static_image": "Tanker_Semi_Trailer.jpg",
         "daily_rate": "1200.00",
         "capacity": "38,000 Litres",
-        "location": "Durban, South Africa",
+        "location": "Miami, FL, USA",
         "status": "available",
         "featured": False,
         "description": (
@@ -218,7 +218,7 @@ EQUIPMENT_DATA = [
     {
         "name": "FPSO — Floating Production Storage & Offloading",
         "category": "offshore",
-        "static_image": "equip10_fpso.svg",
+        "static_image": "red_and_white_boat.jpg",
         "daily_rate": "750000.00",
         "capacity": "200,000 BOPD / 100,000 DWT Storage",
         "location": "West Africa — Deepwater Block",
@@ -243,7 +243,7 @@ EQUIPMENT_DATA = [
     {
         "name": "Gas Compressor Station — 50 MMSCFD",
         "category": "industrial",
-        "static_image": "equip11_compressor.svg",
+        "static_image": "Gas_Compressor_Station.jpg",
         "daily_rate": "48000.00",
         "capacity": "50 MMSCFD / 3,600 PSI Discharge",
         "location": "Midland, TX, USA",
@@ -267,7 +267,7 @@ EQUIPMENT_DATA = [
     {
         "name": "Heavy Lift Offshore Crane — 800T Capacity",
         "category": "offshore",
-        "static_image": "equip12_crane.svg",
+        "static_image": "Heavy_Lift_Offshore_Crane.jpg",
         "daily_rate": "185000.00",
         "capacity": "800 Tonnes / 80m Boom",
         "location": "Aberdeen, Scotland, UK",
@@ -291,7 +291,7 @@ EQUIPMENT_DATA = [
     {
         "name": "LNG Carrier Vessel — 140,000 m³ Moss Sphere",
         "category": "tanker",
-        "static_image": "equip13_lng_vessel.svg",
+        "static_image": "LNG_Carrier_Vessel.jpg",
         "daily_rate": "165000.00",
         "capacity": "140,000 m³ LNG",
         "location": "Port of Yokohama, Japan",
@@ -315,7 +315,7 @@ EQUIPMENT_DATA = [
     {
         "name": "Pipeline Excavator — CAT 395 95T",
         "category": "industrial",
-        "static_image": "equip14_excavator.svg",
+        "static_image": "Pipeline_Excavator.jpg",
         "daily_rate": "5800.00",
         "capacity": "95T Machine / 8.5m Reach",
         "location": "Calgary, Alberta, Canada",
@@ -340,7 +340,7 @@ EQUIPMENT_DATA = [
     {
         "name": "Offshore Platform Supply Vessel (PSV) — DP2",
         "category": "offshore",
-        "static_image": "equip15_supply_vessel.svg",
+        "static_image": "Offshore_Platform_Supply_Vessel.jpg",
         "daily_rate": "28500.00",
         "capacity": "4,500 DWT / 1,800m² Deck",
         "location": "Bergen, Norway",
@@ -364,7 +364,7 @@ EQUIPMENT_DATA = [
     {
         "name": "Christmas Tree Wellhead Assembly — 5,000 PSI",
         "category": "drilling",
-        "static_image": "equip16_wellhead.svg",
+        "static_image": "Christmas_Tree_Wellhead_Assembly.jpg",
         "daily_rate": "4200.00",
         "capacity": "5,000 PSI WP / 4-1/16\" Bore",
         "location": "Houston, TX, USA",
@@ -388,7 +388,7 @@ EQUIPMENT_DATA = [
     {
         "name": "3-Phase Gas-Oil Separator — 15,000 BPD",
         "category": "industrial",
-        "static_image": "equip17_separator.svg",
+        "static_image": "3-Phase_Gas-Oil_Separator.jpg",
         "daily_rate": "22000.00",
         "capacity": "15,000 BPD / ASME VIII Rated",
         "location": "Muscat, Oman",
@@ -412,7 +412,7 @@ EQUIPMENT_DATA = [
     {
         "name": "Hydraulic Fracturing Fleet — 15,000 PSI Tier 4",
         "category": "drilling",
-        "static_image": "equip18_frac_pump.svg",
+        "static_image": "Hydraulic_Fracturing_Fleet.jpg",
         "daily_rate": "310000.00",
         "capacity": "1,500HP Per Unit / 15,000 PSI",
         "location": "Midland, TX, USA",
@@ -438,7 +438,7 @@ EQUIPMENT_DATA = [
     {
         "name": "Subsea ROV — Work Class 3,000m",
         "category": "offshore",
-        "static_image": "equip19_rov.svg",
+        "static_image": "Subsea_ROV.jpg",
         "daily_rate": "95000.00",
         "capacity": "3,000m Rated / 150HP / 7-Function Manipulator",
         "location": "Singapore",
@@ -463,7 +463,7 @@ EQUIPMENT_DATA = [
     {
         "name": "Single Point Mooring Buoy System (CALM)",
         "category": "offshore",
-        "static_image": "equip20_mooring.svg",
+        "static_image": "Single_Point_Mooring_Buoy_System.jpg",
         "daily_rate": "68000.00",
         "capacity": "300,000 DWT VLCC Compatible",
         "location": "Gulf of Guinea, West Africa",

@@ -99,8 +99,6 @@ STATIC_ROOT = BASE_DIR / 'staticfiles'
 _static_dir = BASE_DIR / 'core' / 'static'
 if _static_dir.exists():
     STATICFILES_DIRS = [_static_dir]
-else:
-    STATICFILES_DIRS = []
 
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedStaticFilesStorage'
 WHITENOISE_USE_FINDERS = True
